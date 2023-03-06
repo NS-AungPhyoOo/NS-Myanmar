@@ -4,6 +4,7 @@
   "app_version_code": 1,
   "loading_progress_max": 100,
   "data_url": {
-    "main": "http://nsapo-now.000webhostapp.com/"
-  }
+    "main": "http://nsapo-now.000webhostapp.com/",
+    "tips-message":"https://raw.githubusercontent.com/NS-AungPhyoOo/NS-Myanmar/main/tips_message.json"
+ }
 }
